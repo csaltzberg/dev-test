@@ -1,1 +1,0 @@
-token publish path OK
