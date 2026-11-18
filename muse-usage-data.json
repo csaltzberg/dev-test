@@ -3,8 +3,8 @@
  "plan": "Power",
  "used_pct": 22,
  "remaining_pct": 78,
- "checked_at": "2026-11-17T22:23:31-05:00",
- "checked_label": "Tue Nov 17, 2026 10:23 PM EST",
+ "checked_at": "2026-11-17T23:41:07.738160-05:00",
+ "checked_label": "Tue Nov 17, 2026 11:41 PM EST",
  "week_start_ms": 1794796800000,
  "week_start_label": "Sun Nov 15, 2026 9:40 PM EST",
  "reset_ms": 1795401600000,
@@ -57,11 +57,6 @@
   }
  ],
  "trail": [
-  {
-   "t": 1794086611000,
-   "pct": 49,
-   "ws": 1793587200000
-  },
   {
    "t": 1794108211000,
    "pct": 51,
