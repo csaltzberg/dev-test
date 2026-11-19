@@ -1,17 +1,17 @@
 {
  "version": 2,
  "plan": "Power",
- "used_pct": 32,
- "remaining_pct": 68,
- "checked_at": "2026-11-18T22:23:31-05:00",
- "checked_label": "Wed Nov 18, 2026 10:23 PM EST",
+ "used_pct": 35,
+ "remaining_pct": 65,
+ "checked_at": "2026-11-19T04:23:31-05:00",
+ "checked_label": "Thu Nov 19, 2026 4:23 AM EST",
  "week_start_ms": 1794796800000,
  "week_start_label": "Sun Nov 15, 2026 9:40 PM EST",
  "reset_ms": 1795401600000,
  "reset_label": "Sun Nov 22, 2026 9:40 PM EST",
  "weekly_tokens_est_millions": 500,
- "used_tokens_est_millions": 160,
- "remaining_tokens_est_millions": 340,
+ "used_tokens_est_millions": 175,
+ "remaining_tokens_est_millions": 325,
  "thresholds": [
   50,
   75,
@@ -70,14 +70,13 @@
   {
    "t": 1795058611000,
    "pct": 32
+  },
+  {
+   "t": 1795080211000,
+   "pct": 35
   }
  ],
  "trail": [
-  {
-   "t": 1794173011000,
-   "pct": 54,
-   "ws": 1793587200000
-  },
   {
    "t": 1794194611000,
    "pct": 0,
@@ -286,6 +285,11 @@
   {
    "t": 1795058611000,
    "pct": 32,
+   "ws": 1794796800000
+  },
+  {
+   "t": 1795080211000,
+   "pct": 35,
    "ws": 1794796800000
   }
  ]
