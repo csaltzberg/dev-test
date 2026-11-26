@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-11-25T22:24:12.044838-05:00",
- "checked_label": "Wed Nov 25, 2026 10:24 PM EST",
+ "checked_at": "2026-11-26T04:24:19.181000-05:00",
+ "checked_label": "Thu Nov 26, 2026 4:24 AM EST",
  "history": [
   {
    "pct": 0,
@@ -57,11 +57,15 @@
   {
    "pct": 29,
    "t": 1795663452044
+  },
+  {
+   "pct": 31,
+   "t": 1795685059181
   }
  ],
  "plan": "Power",
- "remaining_pct": 71,
- "remaining_tokens_est_millions": 355,
+ "remaining_pct": 69,
+ "remaining_tokens_est_millions": 345,
  "reset_label": "Sun Nov 29, 2026 9:40 PM EST",
  "reset_ms": 1796006400000,
  "thresholds": [
@@ -70,11 +74,6 @@
   90
  ],
  "trail": [
-  {
-   "pct": 0,
-   "t": 1794799411000,
-   "ws": 1794796800000
-  },
   {
    "pct": 4,
    "t": 1794821011000,
@@ -279,10 +278,15 @@
    "pct": 29,
    "t": 1795663452044,
    "ws": 1795401600000
+  },
+  {
+   "pct": 31,
+   "t": 1795685059181,
+   "ws": 1795401600000
   }
  ],
- "used_pct": 29,
- "used_tokens_est_millions": 145,
+ "used_pct": 31,
+ "used_tokens_est_millions": 155,
  "version": 2,
  "warned": [],
  "week_start_label": "Sun Nov 22, 2026 9:40 PM EST",
